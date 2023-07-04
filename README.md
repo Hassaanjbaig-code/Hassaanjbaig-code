@@ -15,6 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hassaan-baig-855788241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassaan baig" height="30" width="40" /></a>
+  <a href="https://wellfound.com/u/hassaan-baig-3" target="blank"><img align="center" src="https://github.com/Hassaanjbaig-code/blog_app-/assets/80938128/620b04bd-aedc-44f7-81cd-fd5147b2886e" alt="hassaan baig" height="50" width="50" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
