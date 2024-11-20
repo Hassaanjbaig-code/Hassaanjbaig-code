@@ -9,7 +9,7 @@
 
 - 🤗 For fun stuff I like to play games can anyone join me
 
-- 🌱 Currently part of @Microverse 
+- Doing the Fun Stuff 
 
 - 📫 How to reach me **hassaanb000@gmail.com**
 
